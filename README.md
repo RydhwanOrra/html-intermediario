@@ -1,4 +1,4 @@
-<h1>Html-intermediario</h1>
+<h1>html-intermediario</h1>
 Alguns itens a mais de estruturação
 <hr />
 <h2>Listas ordenadas e não ordenadas</h2>
